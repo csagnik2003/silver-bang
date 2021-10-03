@@ -1,0 +1,1 @@
+This directory contains the code, designed for the avionics mechanism of the electromechanical ejection system. The code was designed in Arduino IDE and can be readily used as a .ino file.
