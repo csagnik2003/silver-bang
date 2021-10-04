@@ -1,2 +1,2 @@
 # silver-bang
-This GitHub repository is created by team Silver Bang for proper storage and display of the codes that were required for the creation of the electromechanical ejection system. This repository is a part of the final project that team Silver Bang made for the  NASA SPACE APPS CHALLENGE 2021
+This GitHub repository is created by team Silver Bang for proper storage and display of the codes that were required for the creation of the electromechanical ejection system. Along with the codes, this repository also contains a technical presentation about the electromechanical ejection system, covering the technical and hardware aspects of our project. This repository is a part of the final project that team Silver Bang made for the NASA SPACE APPS CHALLENGE 2021
