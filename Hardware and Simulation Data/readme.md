@@ -1,0 +1,2 @@
+This directory contains information regarding the main hardware section of the electromechanical ejection system. Our team created virtual 3D models of the whole system with the help of FUSION 360, a CAD modelling software. Our team also performed virtual simulations on the 3D CAD model revealing the hardware capabilities of our recovery system. This directory primarily focuses on the actuator's thermal and structural capabilities with the help of visual simulations.  
+
